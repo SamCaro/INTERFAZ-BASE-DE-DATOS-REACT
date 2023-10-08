@@ -21,7 +21,6 @@ describe('Login', () => {
   });
 });
 
-
 describe('UseFetch', () => {
     it('Should show a list of characters including Glenna Reichert', async () => {
         render(<UseFetch />);
