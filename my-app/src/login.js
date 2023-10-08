@@ -26,7 +26,7 @@ const Login = () => {
 
     return (
         <div className="container pantallaUno">
-            <h2>Test Interview Tech :)</h2>
+            <h2>Test Interview Tech 2023</h2>
             <label>Usuario</label>
             <Input
                 attribute={{
